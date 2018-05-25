@@ -1,12 +1,10 @@
 #h1_0 {
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;   
     font-size: 300%;
 }
 
-#p_0 {
+#h1_0, #p_0, #p_1, #ul_0 {
     font-family: Arial, Helvetica, sans-serif;
-    padding-top: 50px;
 }
 
 #img_0 {
@@ -16,11 +14,10 @@
     height: 600px; 
 }
 
-#ul_0 {
-    font-family: Arial, Helvetica, sans-serif;
+#p_0 { 
+    padding-top: 50px;
 }
 
 #p_1 {
-    font-family: Arial, Helvetica, sans-serif;
     padding-top: 50px;
 }
