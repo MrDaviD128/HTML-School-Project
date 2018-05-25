@@ -1,0 +1,13 @@
+#img_0 {
+    float: left;
+}
+
+#img_1 {
+    display: inline-block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#img_2{
+    float: right;
+}
