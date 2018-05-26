@@ -1,16 +1,42 @@
-#figure_0 {
-    float: left;
-}
- 
-#img_3 {
-    width: 551px;
-    height: 150px;
-}
-
 #figcaption_0 {
     width: 551px;
 }
 
+#figcaption_1 {
+    width: 196px;
+}
+#figure_0 {
+    float: left;
+}
+
+#figure_1 {
+    float: right;
+}
+
+#figure_2 {
+    float: left;
+}
+
 hr {
-     clear: both;
+    clear: both;
+}
+
+#img_0 {
+    width: 551px;
+    height: 150px;
+}
+
+#img_1 {
+    width: 196px;
+    height: 200px;
+}
+
+#img_2 {
+    width: 175px;
+    height: 175px;
+}
+
+#tr_0 {
+    background-color: black;
+    color:white;
 }
