@@ -14,19 +14,11 @@
     width: 150px; 
 }
 
-#figure_0 {
+#figure_0, #figure_2 {
     float: left;
 }
 
-#figure_1 {
-    float: right;
-}
-
-#figure_2 {
-    float: left;
-}
-
-#figure_3 {
+#figure_1, #figure_3 {
     float: right;
 }
 
