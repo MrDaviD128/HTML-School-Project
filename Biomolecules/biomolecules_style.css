@@ -5,6 +5,15 @@
 #figcaption_1 {
     width: 196px;
 }
+
+#figcaption_2 {
+    width: 175px;
+}
+
+#figcaption_3 {
+    width: 150px; 
+}
+
 #figure_0 {
     float: left;
 }
@@ -15,6 +24,10 @@
 
 #figure_2 {
     float: left;
+}
+
+#figure_3 {
+    float: right;
 }
 
 hr {
@@ -34,6 +47,11 @@ hr {
 #img_2 {
     width: 175px;
     height: 175px;
+}
+
+#img_3 {
+    width: 150px;
+    height: 150px;
 }
 
 #tr_0 {
