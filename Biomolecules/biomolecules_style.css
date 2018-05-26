@@ -1,13 +1,16 @@
-#img_0 {
+#figure_0 {
     float: left;
 }
-
-#img_1 {
-    display: inline-block;
-    margin-right: auto;
-    margin-left: auto;
+ 
+#img_3 {
+    width: 551px;
+    height: 150px;
 }
 
-#img_2{
-    float: right;
+#figcaption_0 {
+    width: 551px;
+}
+
+hr {
+     clear: both;
 }
