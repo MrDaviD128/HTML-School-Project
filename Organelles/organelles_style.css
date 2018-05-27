@@ -8,12 +8,34 @@
     font-size: 75%;
 }
 
+#figcaption_2 {
+    width: 320px;
+}
+
+#figcaption_3 {
+    width: 320px;
+    font-size: 65%;
+    caption-side: left;
+}
+
+#figcaption_4 {
+    width: 320px;
+}
+
 #figure_0 {
     float: right;
 }
 
 #figure_1 {
     float: left;
+}
+
+#figure_2 {
+    float: left;
+}
+
+#figure_3 {
+    float: right;
 }
 
 hr {
