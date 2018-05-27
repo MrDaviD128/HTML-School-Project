@@ -22,6 +22,11 @@
     width: 320px;
 }
 
+#figcaption_5 {
+    width: 200px;
+    font-size: 75%;
+}
+
 #figure_0 {
     float: right;
 }
@@ -38,6 +43,10 @@
     float: right;
 }
 
+#figure_4 {
+    float: left;
+}
+
 hr {
     clear: both;
 }
@@ -48,6 +57,12 @@ hr {
 }
 
 #img_1 {
+    width: 200px;
+    height: 150px;
+    border: 6px solid;
+}
+
+#img_4 {
     width: 200px;
     height: 150px;
     border: 6px solid;
