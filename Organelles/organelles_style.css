@@ -27,6 +27,15 @@
     font-size: 75%;
 }
 
+#figcaption_6 {
+    width: 379px;
+}
+
+#figcaption_7 {
+    width: 379px;
+    font-size: 50%;
+}
+
 #figure_0 {
     float: right;
 }
@@ -47,8 +56,16 @@
     float: left;
 }
 
+#figure_5 {
+    float: right;
+}
+
 hr {
     clear: both;
+}
+
+#h3_1 {
+    padding-top: 65px;
 }
 
 #img_0 {
@@ -65,5 +82,11 @@ hr {
 #img_4 {
     width: 200px;
     height: 150px;
-    border: 6px solid;
+    border: 3px solid;
+}
+
+#img_5 {
+    width: 379px;
+    height: 250px;
+    border: 3px solid;
 }
