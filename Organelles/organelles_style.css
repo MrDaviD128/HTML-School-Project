@@ -2,7 +2,7 @@
     width: 150px;
 }
 
-#figcaption_0, #figcaption_1, #figcaption_5, #figcaption_6, #figcaption_8, #figcaption_11 {
+#figcaption_0, #figcaption_1, #figcaption_5, #figcaption_6, #figcaption_8, #figcaption_11, #figcaption_12 {
     font-size: 75%;
 }
 
@@ -55,7 +55,16 @@
     width: 465px;
 }
 
-#figure_0, #figure_3, #figure_5, #figure_8, #figure_9 {
+#figcaption_12 {
+    width: 267px;
+}
+
+#figcaption_13 {
+    font-size: 60%;
+    width: 171px;
+}
+
+#figure_0, #figure_3, #figure_5, #figure_8, #figure_9, #figure_10, #figure_11 {
     float: right;
 }
 
@@ -92,7 +101,7 @@ hr {
     height: 150px;
 }
 
-#img_4, #img_5, #img_6, #img_7, #img_8 {
+#img_4, #img_5, #img_6, #img_7, #img_8, #img_9, #img_10 {
     border: 3px solid;
 }
 
@@ -114,6 +123,16 @@ hr {
 #img_8 {
     width: 465px;
     height: 350px;
+}
+
+#img_9 {
+    width: 267px;
+    height: 200px;
+}
+
+#img_10 {
+    width: 171px;
+    height: 150px;
 }
 
 #tr_0 {
