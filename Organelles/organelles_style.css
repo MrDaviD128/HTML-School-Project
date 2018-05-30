@@ -51,6 +51,11 @@
     font-size: 50%;
 }
 
+#figcaption_11 {
+    width: 465px;
+    font-size: 75%;
+}
+
 #figure_0 {
     float: right;
 }
@@ -86,6 +91,10 @@
 }
 
 #figure_8 {
+    float: right;
+}
+
+#figure_9 {
     float: right;
 }
 
@@ -133,6 +142,12 @@ hr {
 #img_7 {
     width: 263px;
     height: 175px;
+    border: 3px solid;
+}
+
+#img_8 {
+    width: 465px;
+    height: 350px;
     border: 3px solid;
 }
 
